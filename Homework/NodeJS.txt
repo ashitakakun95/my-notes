@@ -1,0 +1,21 @@
+# NodeJS
+
+## what is Chrome V8
+
+[Chrome V8  |  Google Developers](https://developers.google.com/v8/)
+
+## What is a buffer in Node.js?
+
+- [ ] [What is a buffer in Node.js? - Stack Overflow](https://stackoverflow.com/questions/14551006/what-is-a-buffer-in-node-js)
+- [ ] [Do you want a better understanding of Buffer in Node.js? Check this out.](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8)
+
+
+## What is EventEmitter?
+
+- [ ] [Node.js, EventEmitter of why using it - Stack Overflow](https://stackoverflow.com/questions/44912178/node-js-eventemitter-of-why-using-it)
+
+- [ ] [design patterns - Why use Node.js EventEmitter instead of just a plain function? - Stack Overflow](https://stackoverflow.com/questions/39305354/why-use-node-js-eventemitter-instead-of-just-a-plain-function)
+
+## What is NodeJS Streams?
+
+- [ ] [Node.js Streams: Everything you need to know – freeCodeCamp.org](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)

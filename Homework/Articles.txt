@@ -1,0 +1,15 @@
+# Articles
+
+- [ ] [What is an API? In English, please. – freeCodeCamp](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
+- [ ] [The Cost Of JavaScript In 2018 – Addy Osmani – Medium](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+- [ ] [Progressive Web Apps 101: the What, Why and How – freeCodeCamp.org](https://medium.freecodecamp.org/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2)
+- [ ] [My role as a Front-end Web engineer explained 👀 – freeCodeCamp.org](https://medium.freecodecamp.org/my-role-as-a-front-end-web-engineer-explained-948d0f1ceac1)
+- [ ] [How to find out if Ionic is the right choice for your project](https://medium.freecodecamp.org/is-ionic-the-right-choice-for-my-project-f15774303956)
+- [ ] [GitHub Extensions to Boost Your Productivity – freeCodeCamp.org](https://medium.freecodecamp.org/github-extensions-to-boost-your-productivity-4692ad2b1796)
+- [ ] [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+- [ ] [How I (re)built the Medium clap effect — and what I got out of the experiment.](https://medium.freecodecamp.org/how-i-re-built-the-medium-clap-effect-and-what-i-got-out-of-the-experiment-991672995fdf)
+- [ ] [How Image Optimization Decreased my Website’s Page Weight by 62%](https://medium.freecodecamp.org/image-optimization-558d9f449e3)
+- [ ] [How to build a rock solid app – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-build-a-rock-solid-app-29dffe7875d2)
+- [ ] [The Web 3.0: The Web Transition Is Coming – Hacker Noon](https://hackernoon.com/the-web-3-0-the-web-transition-is-coming-892108fd0d)
+- [ ] [Lessons Learned: Code Splitting with Webpack and React](https://hackernoon.com/lessons-learned-code-splitting-with-webpack-and-react-f012a989113)
+- [ ] [Genuinely useful career resources for self-taught developers](https://medium.freecodecamp.org/genuinely-useful-career-resources-for-self-taught-developers-8e679cec25ab)
